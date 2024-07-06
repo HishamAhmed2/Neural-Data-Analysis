@@ -1,5 +1,5 @@
 # Neural-Data-Analysis
-This repository contains 5 projects about the analysis of different types neural data such as electrophysiology, EEG, fMRI, Ca imaging and a simulation of AdEx biophysical model of neuron. These projects were done as part of "Essentials of Neuroscience with Matlab" online course. The main language used in course is matlab however, I have done projects in python because I dont have an access to a matlab license currently.
+This repository contains 5 projects about the analysis of different types neural data such as electrophysiology, EEG, fMRI, Ca imaging and a simulation of AdEx biophysical model of neuron. These projects were done as part of "Essentials of Neuroscience" online course.
 ## Spike Analysis Project
 <br/> Analysis of electrophysiological data from visual cortex of a monkey (stimuli consist of sinusoidal gratings at 12 orientations spaced equally)
 <br/> **Data**: Kohn, A., Smith, M.A. (2016) Utah array extracellular recordings of spontaneous and visually evoked activity from anesthetized macaque primary visual cortex (V1). CRCNS.org http://dx.doi.org/10.6080/K0NC5Z4X
